@@ -3,11 +3,28 @@
     "displayName": "Monokai Aora",
     "description": "minimal looking custom monokai theme",
     "version": "0.0.1",
+    "publisher": "tuguldurio",
+    "license": "GPLv3",
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#16171d",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tuguldurio/monokai-aora"
+    },
+    "homepage": "https://github.com/tuguldurio/monokai-aora/blob/master/README.md",
     "engines": {
         "vscode": "^1.43.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "monokai",
+        "dark",
+        "vibrant"
     ],
     "contributes": {
         "themes": [
