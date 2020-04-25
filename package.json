@@ -1,0 +1,21 @@
+{
+    "name": "monokai-aora",
+    "displayName": "Monokai Aora",
+    "description": "minimal looking custom monokai theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Aora",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Aora-color-theme.json"
+            }
+        ]
+    }
+}
