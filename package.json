@@ -3,9 +3,9 @@
     "displayName": "Monokai Aora",
     "description": "minimal looking custom monokai theme",
     "version": "0.0.1",
-    "publisher": "tuguldurio",
     "license": "GPLv3",
     "icon": "icon.png",
+    "publisher": "tuguldurio",
     "galleryBanner": {
         "color": "#16171d",
         "theme": "dark"
