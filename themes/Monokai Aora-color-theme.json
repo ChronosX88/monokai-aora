@@ -131,7 +131,7 @@
 			],
 			"settings": {
 				"foreground": "#19D1E5",
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		/**
@@ -228,7 +228,7 @@
 			],
 			"settings": {
 				"foreground": "#FF9700",
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -278,7 +278,7 @@
 				"variable.other.object"
 			],
 			"settings": {
-				"foreground": "#45A1ED",
+				"foreground": "#FFFFFF",
 				"fontStyle": ""
 			}
 		},
