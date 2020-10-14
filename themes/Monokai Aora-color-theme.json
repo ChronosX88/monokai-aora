@@ -13,75 +13,75 @@
 
 		/** Dropdown control */
 		"dropdown.background": "#1d1f23",
-		"dropdown.border": "#181A11",
+		"dropdown.border": "#181a11",
 
 		/** Input control */
 		"input.background": "#1d1f23",
 
 		/** Scrollbar control */
-		"scrollbarSlider.activeBackground": "#747D9180",
-		"scrollbarSlider.background": "#4E566680",
-		"scrollbarSlider.hoverBackground": "#5A637580",
+		"scrollbarSlider.activeBackground": "#747d9180",
+		"scrollbarSlider.background": "#4e566680",
+		"scrollbarSlider.hoverBackground": "#5a637580",
 
 		/** Badge */
 
 		/** Progress bar */
 
 		/** Lists and trees */
-		"list.activeSelectionBackground": "#21252B",
+		"list.activeSelectionBackground": "#21252b",
 		"list.activeSelectionForeground": "#d7dae0",
-		"list.focusBackground": "#383E4A",
+		"list.focusBackground": "#383e4a",
 		"list.highlightForeground": "#C5C5C5",
 		"list.hoverBackground": "#292d35",
-		"list.inactiveSelectionBackground": "#21252B",
+		"list.inactiveSelectionBackground": "#21252b",
 		"list.inactiveSelectionForeground": "#d7dae0",
 
 		/** Activity Bar */
-		"activityBar.background": "#0F1419",
-		"activityBar.foreground": "#D7DAE0",
+		"activityBar.background": "#0f1419",
+		"activityBar.foreground": "#d7dae0",
 		"activityBarBadge.background": "#528bff",
-		"activityBarBadge.foreground": "#F8FAFD",
+		"activityBarBadge.foreground": "#f8fafd",
 
 		/** Side Bar */
-		"sideBar.background": "#181C20",
-		"sideBarSectionHeader.background": "#191B20",
+		"sideBar.background": "#181c20",
+		"sideBarSectionHeader.background": "#191b20",
 
 		/** Minimap */
 
 		/** Editor Groups & Tabs */
 		"editorGroup.border": "#2c313a",
-		"editorGroupHeader.tabsBackground": "#0F1419",
-		"tab.activeBackground": "#0F1419",
-		"tab.border": "#0F1419",
-		"tab.activeBorder": "#80138E",
-		"tab.inactiveBackground": "#0F1419",
+		"editorGroupHeader.tabsBackground": "#0f1419",
+		"tab.activeBackground": "#0f1419",
+		"tab.border": "#0f1419",
+		"tab.activeBorder": "#80138e",
+		"tab.inactiveBackground": "#0f1419",
 
 		/** Editor colors */
-		"editor.background": "#0F1419",
+		"editor.background": "#0f1419",
 		"editor.foreground": "#f8f8f0",
 		"editorLineNumber.foreground": "#495162",
 		"editorCursor.foreground": "#f8f8f0",
-		"editor.selectionBackground": "#3E4451",
+		"editor.selectionBackground": "#3e4451",
 		"editor.findMatchHighlightBackground": "#314365",
-		"editor.lineHighlightBackground": "#1F2328",
+		"editor.lineHighlightBackground": "#1f2328",
 		"editorWhitespace.foreground": "#484a50",
-		"editorIndentGuide.background": "#3B4048",
-		// "editorIndentGuide.background": "#21252B",
+		"editorIndentGuide.background": "#3b4048",
+		// "editorIndentGuide.background": "#21252b",
 
 		"editorRuler.foreground": "#484848",
 
 		"editorError.foreground": "#c24038",
 
-		"diffEditor.insertedTextBackground": "#00809B33",
+		"diffEditor.insertedTextBackground": "#00809b33",
 
-		"editorWidget.background": "#21252B",
+		"editorWidget.background": "#21252b",
 
-		"editorSuggestWidget.background": "#21252B",
-		"editorSuggestWidget.border": "#181A1F",
+		"editorSuggestWidget.background": "#21252b",
+		"editorSuggestWidget.border": "#181a1f",
 		"editorSuggestWidget.selectedBackground": "#2c313a",
 
-		"editorHoverWidget.background": "#21252B",
-		"editorHoverWidget.border": "#181A1F",
+		"editorHoverWidget.background": "#21252b",
+		"editorHoverWidget.border": "#181a1f",
 		
 		/** Peek view colors */
 
@@ -90,17 +90,17 @@
 		/** Panel colors */
 		
 		/** Status Bar colors */
-		"statusBar.background": "#0F1419",
+		"statusBar.background": "#0f1419",
 		"statusBar.foreground": "#fff",
-		"statusBar.debuggingBackground": "#21252B",
-		"statusBar.noFolderBackground": "#21252B",
+		"statusBar.debuggingBackground": "#21252b",
+		"statusBar.noFolderBackground": "#21252b",
 		"statusBarItem.hoverBackground": "#2c313a",
 
 		/** Title Bar colors */
-		"titleBar.activeBackground": "#0F1419",
-		"titleBar.activeForeground": "#FFFFFF",
-		"titleBar.inactiveBackground": "#0F1419",
-		"titleBar.inactiveForeground": "#6B717D",
+		"titleBar.activeBackground": "#0f1419",
+		"titleBar.activeForeground": "#fff",
+		"titleBar.inactiveBackground": "#0f1419",
+		"titleBar.inactiveForeground": "#6b717d",
 
 		/** Menu Bar colors */
 
